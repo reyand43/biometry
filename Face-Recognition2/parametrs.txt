@@ -1,0 +1,8 @@
+Best parametrs 1/N
+scale = 2
+hist = 19
+grad = 7
+dft = 20
+dct = 11
+
+BEST L = 7
